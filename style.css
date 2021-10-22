@@ -1,0 +1,379 @@
+/* Section header */
+.documentTitle {
+    background-color: #E0CDA9;
+}
+.titrePrincipal {
+    background-color: #E0CDA9;
+    color: #303030;
+    text-align: center;
+}
+.nav {
+    background-color: #E0CDA9;
+}
+.btn2 {
+    background-color: #303030;
+    border: 10;
+    border-color: white;
+    color: white;
+    width: 100px;
+}
+.btn2:hover {
+    background-color: white;
+    border: 10;
+    border-color: #303030;
+    color: #303030;
+}
+.mainTitle {
+    background-color: #966858;
+}
+.photoCv {
+    width: 30%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.paragraphe1 {
+    text-align: center;
+    vertical-align: middle;
+}
+.technique {
+    background-color: #966858;
+}
+
+/* Section langages */
+.boxLangages {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    box-shadow: 5px 5px 5px #303030;
+}
+.titreTechnique {
+    text-align: center;
+    color: white;
+}
+.logoLangages {
+    color: #E0CDA9;
+}
+.progress {
+    background-color: #966858;
+}
+.progress-bar {
+    background-color: #E0CDA9;
+}
+.bar1 {
+    margin-top: 30px;
+}
+.bar2 {
+    margin-top: 66px;
+}
+.bar3 {
+    margin-top: 66px;
+}
+
+/* Section Frameworks */
+.boxFrameworks {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    box-shadow: 5px 5px 5px #303030;
+}
+.rond1 {
+    border: solid 5px;
+    background-color: #E0CDA9;
+    color: #966858;
+}
+.circle2 {
+    height: 100px;
+    width: 100px;
+    background-color: #303030;
+    border: solid 3px;
+    border-color: #E0CDA9;
+    border-radius: 50%;
+}
+.logoBootstrap {
+    color: #E0CDA9;
+    background-color: #303030;
+    border: solid 3px;
+    border-color: #E0CDA9;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+/* Section contact */
+.boxContact {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    box-shadow: 5px 5px 5px #303030;
+}
+#subject {
+    background-color: #E0CDA9;
+    color: #303030;
+    margin-top: 16px;
+}
+#yourMessage {
+    background-color: #E0CDA9;
+    color: #303030;
+}
+#email {
+    background-color: #E0CDA9;
+    color: #303030;
+}
+.btn3 {
+    background-color: #E0CDA9;
+    color: #303030;
+    margin-left: 200px;
+}
+.modal-header {  
+    background-color: #E0CDA9;
+    color: #303030;
+}
+.close {
+    background-color: #303030;
+    border: solid 3px;
+    border-color: white;
+    color: white;
+}
+.modal-body {
+    background-color: #966858;
+    color: white;
+}
+.modal-footer {
+    background-color: #E0CDA9;
+    color: #303030;
+}
+
+
+/* Section Formation*/
+.boxFormation {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    box-shadow: 5px 5px 5px #303030;
+} 
+.paragrapheDate {
+    font-size: 12px;
+}
+.paragrapheEcole {
+    font-size: 14px;
+}
+.paragrapheDiplome {
+    font-size: 12px;
+}
+.container2 {
+    background-color: #966858;
+}
+
+/* Section Projets*/
+.infos {
+    background-color: #966858;
+}
+.boxProjets {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    box-shadow: 5px 5px 5px #303030;
+}
+.boxPortfolio {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    color: white;
+    font-size: 14px;
+    box-shadow: 5px 5px 5px #303030;
+}
+.imageProjet1 {
+    width: 90%;
+}
+
+/* Section langues*/
+.boxFR {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    color: #E0CDA9;
+    box-shadow: 5px 5px 5px #303030;
+}
+.barLangues {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.boxEN {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    color: #E0CDA9;
+    box-shadow: 5px 5px 5px #303030;
+}
+.boxIT {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    color: #E0CDA9;
+    box-shadow: 5px 5px 5px #303030;
+}
+.boxDE {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    color: #E0CDA9;
+    box-shadow: 5px 5px 5px #303030;
+}
+
+/* Section Hobbies */
+.boxHobbies {
+    background-color: #303030;
+    border: solid 5px;
+    border-radius: 10%;
+    border-color: #E0CDA9;
+    display: block;
+    box-shadow: 5px 5px 5px #303030;
+}
+.titleHobbies {
+    color: white;
+}
+.imageSnow {
+    width: 90%;
+}
+.imageLivres {
+    width: 100%;
+}
+.imageGuitare {
+    width: 90%;
+}
+.imageTraduction {
+    width: 90%;
+}
+
+/* Définition des polices */
+h1,h2 {
+    Font-family: Franklin Gothic, Arial Bold;
+}
+p {
+    Font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+}
+.input {
+    Font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+}
+.modal-title {
+    font-family: Franklin Gothic, Arial Bold;
+}
+.close {
+    Font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+}
+/* Comportement du scroll */
+html {
+    scroll-behavior: smooth;
+   }
+
+/* Style footer */
+footer {
+    background-color: #E0CDA9;
+}
+.logoLinkedin {
+    color: #0a66c2;
+}
+.logoGithub {
+    color: #303030;
+}
+
+/* Bouton scroll up */
+#scrollUp {
+    position: fixed;
+    bottom : 10px;
+    right: -100px;
+    opacity: 0.5;
+}
+
+/* Animations images */
+.image img {
+    -webkit-transition: all 1s ease; /* Safari and Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* IE 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
+}
+
+.image:hover img {
+    -webkit-transform:scale(1.25); /* Safari and Chrome */
+    -moz-transform:scale(1.25); /* Firefox */
+    -ms-transform:scale(1.25); /* IE 9 */
+    -o-transform:scale(1.25); /* Opera */
+     transform:scale(1.25);
+}
+
+/* Rotation icones + compatibilité différents navigateurs */
+@keyframes myrotate {
+    0% {
+      transform: rotate(0deg);
+    }
+   100% {
+      transform: rotate(359deg);
+   }
+}
+
+@-o-keyframes myrotate {
+    0% {
+      -o-transform: rotate(0deg);
+    }
+   100% {
+      -o-transform: rotate(359deg);
+   }
+}
+@-moz-keyframes myrotate {
+    0% {
+      -moz-transform: rotate(0deg);
+    }
+   100% {
+      -moz-transform: rotate(359deg);
+   }
+}
+@-webkit-keyframes myrotate {
+    0% {
+      -webkit-transform: rotate(0deg);
+    }
+   100% {
+      -webkit-transform: rotate(359deg);
+   }
+}
+@-ms-keyframes myrotate {
+    0% {
+      -ms-transform: rotate(0deg);
+    }
+   100% {
+      -ms-transform: rotate(359deg);
+   }
+}
+.rotate:hover {
+    -webkit-animation: myrotate 2.5s infinite linear;
+    -moz-animation: myrotate 2.5s infinite linear;
+    -ms-animation: myrotate 2.5s infinite linear;
+    -o-animation: myrotate 2.5s infinite linear;
+    animation: myrotate 2.5s infinite linear;
+}
+.rotate {
+    cursor:pointer;
+}
