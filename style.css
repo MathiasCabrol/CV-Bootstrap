@@ -401,6 +401,8 @@ footer {
 .firstCaption {
     background-color: white;
 }
+
+/* Création de la flèche en CSS */
 .arrow-down {
     width: 32px;
     height: 20px;
@@ -411,7 +413,7 @@ footer {
     animation-iteration-count: infinite;
     animation-play-state: running;
 }
-      
+/* Animation de la flèche */
 @keyframes slideBottom {
     from {
         margin-top: 0%;
